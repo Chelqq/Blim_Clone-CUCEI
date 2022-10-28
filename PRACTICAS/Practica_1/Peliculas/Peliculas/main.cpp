@@ -25,7 +25,7 @@ int main()
         cout << "0) SALIR" << endl;
         cout << "-------------------" << endl;
         cout << endl;
-        cout << "Ingresa una opcion: ";
+        cout << "Ingresa la opcion: ";
 
         getline(cin,opc);
 
