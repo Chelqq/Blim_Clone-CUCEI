@@ -60,7 +60,7 @@ int main()
         {
             while (true)
             {
-                cout << "-----MODIFICAR-----" << endl;
+                cout << "-----MENU MODIFICAR-----" << endl;
                 cout << "1) MODIFICAR NOMBRE" << endl;
                 cout << "2) MODIFICAR GENERO" << endl;
                 cout << "3) MODIFICAR ESTRENO" << endl;
