@@ -65,7 +65,7 @@ int main()
                 cout << "2) MODIFICAR GENERO" << endl;
                 cout << "3) MODIFICAR ESTRENO" << endl;
                 cout << "4) MODIFICAR IDIOMA" << endl;
-                cout << "5) MODIFICAR TODOS LOS ATRIBUTOS" << endl;
+                cout << "5) MODIFICAR TODOS LOS CAMPOS" << endl;
                 cout << "0) SALIR" << endl;
                 cout << "-------------------" << endl;
                 cout << "Ingrese una opcion: ";
